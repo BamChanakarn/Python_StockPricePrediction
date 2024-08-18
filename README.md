@@ -7,9 +7,5 @@ NVIDIA Corporation, founded in 1993, is a leading American multinational technol
 ### Dataset
 This project uses one year historical data of NVIDIA Corporation (NVDA) stock from 28 July 2023 - 28 July 2024 retreived from yahoo finance.
 
-
-### Stock prediction analysis
-From the analysis, 
-Explains the result after importing forecast data 
-Then interpret data by going to Yahoo Finance to see other parameters such as PE Ratio (TTM) = 62.73, EPS (TTM) =1.71, Market Cap(intraday)
-= 2.639T, and make conclusion/ assumptions about this stock
+### Stock prediction analysis and recommendation
+Using Prophet to forecast the next 30-day stock trend, the model suggests a continued increase in the stock price. In addition, the analysis highlights that Wednesdays are likely to show the lowest prices within the week. While these predictions provide valuable insights, it is crucial not to rely solely on this model for making buy-sell decisions. Traders should also consider additional financial data such as the P/E ratio, market capitalization, and cash flow, among others, to fully assess the company's financial health before making investment decisions.
